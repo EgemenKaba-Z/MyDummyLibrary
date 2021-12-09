@@ -2,4 +2,5 @@ This is a simple library to experience the feeling of submodules in a recent ver
 
 
 You can increase this counter to add revisions to the history.
-Counter: 1
+
+Counter: 2
