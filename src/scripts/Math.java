@@ -11,5 +11,9 @@ public class Math {
 	public static double sum(double...doubles) {
 		return Arrays.stream(doubles).sum();
 	}
+	
+	public static long sum(long...longs) {
+		return Arrays.stream(longs).sum();
+	}
 
 }
